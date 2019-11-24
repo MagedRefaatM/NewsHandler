@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NewsHandler</string>
+    <string name="linkInsertion">Insert Source Link :</string>
+    <string name="add">Add</string>
+    <string name="case_empty">Enter Your Name And Password First</string>
+    <string name="case_correct">Finished</string>
+    <string name="case_error">Error , try to Re-Adding</string>
+    <string name="name_require">Name Required</string>
+    <string name="link_require">Link Required</string>
+    <string name="link_exists">Already Added</string>
+    <string name="tittle">Tittle :</string>
+    <string name="description">Description :</string>
+    <string name="link">Link :</string>
+    <string name="newsHandler">Your News Handler</string>
+    <string name="newsImage">newsImage</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show Less</string>
+    <string name="source_name">Enter Source Name :</string>
+    <string name="delete">X</string>
+    <string name="invalid_link">Error : Invalid Rss URL , Please Delete This Record</string>
+    <string name="dialog_title">Fetching News</string>
+    <string name="dialog_message">Loading. Please wait…</string>
+    <string name="application_title">We Bring News Of Any Link</string>
+    <string name="head_line">HeadLine :</string>
+    <string name="source">Source :</string>
+    <string name="publish_date">PublishDate :</string>
+</resources>
